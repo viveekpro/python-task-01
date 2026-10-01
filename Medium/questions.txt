@@ -1,0 +1,53 @@
+PYTHON LIST & TUPLE — MEDIUM
+
+1. Find the largest number in a list without using max().
+
+2. Find the smallest number in a list without using min().
+
+3. Reverse a list without using reverse().
+
+4. Sort a list without using sort().
+
+5. Create a new list containing only numbers greater than 10.
+
+6. Remove duplicate values from a list.
+
+7. Find the second-largest number in a list.
+
+8. Find the second-smallest number in a list.
+
+9. Separate even and odd numbers into two different lists.
+
+10. Find the common elements between two lists.
+
+11. Find elements that exist in the first list but not in the second list.
+
+12. Convert a list into a tuple and a tuple into a list.
+
+13. Create a tuple containing:
+    Name, Age, Course and City.
+    Then unpack and print each value.
+
+14. Create a list of 10 numbers and create a tuple containing only the even numbers.
+
+15. Find the frequency of every element in a list.
+
+16. Find the total of all numbers inside a tuple.
+
+17. Find the largest value inside a tuple without using max().
+
+18. Check whether a list is a palindrome.
+
+19. Merge two lists into a single list without using extend().
+
+20. Remove all occurrences of a particular value from a list.
+
+21. Given a list of student marks, calculate the average marks.
+
+22. Find all numbers that appear more than once in a list.
+
+23. Create a list containing the squares of numbers from 1 to 10.
+
+24. Find the difference between the largest and smallest number in a list.
+
+25. Rotate a list one position to the right.
