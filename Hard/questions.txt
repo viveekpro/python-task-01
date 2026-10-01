@@ -1,0 +1,69 @@
+PYTHON LIST & TUPLE — HARD
+
+1. Remove duplicate values from a list without using set().
+
+2. Find the second-largest unique number in a list.
+
+3. Find the second-smallest unique number in a list.
+
+4. Find the frequency of every element without using Counter.
+
+5. Find all duplicate elements without using set().
+
+6. Find all elements that occur exactly once in a list.
+
+7. Find the intersection of two lists without using set().
+
+8. Find the union of two lists without using set().
+
+9. Find the elements that are present in either list but not in both.
+
+10. Rotate a list by N positions.
+
+11. Find all pairs of numbers whose sum equals a given number.
+
+12. Find the maximum sum of two different elements in a list.
+
+13. Find the maximum sum sub-list from a list of numbers.
+
+14. Find the longest increasing sequence in a list.
+
+15. Find the longest decreasing sequence in a list.
+
+16. Flatten a nested list.
+
+Example:
+[[1, 2], [3, 4], [5, 6]]
+
+Expected:
+[1, 2, 3, 4, 5, 6]
+
+17. Find the largest element from a nested list.
+
+18. Find the total of all elements in a nested list.
+
+19. Given a list of tuples containing student name and marks, find the student with the highest marks.
+
+20. Given a list of tuples containing student name and marks, sort the students by marks without using a lambda function.
+
+21. Given a list of tuples:
+    (name, age, city)
+    group students according to their city.
+
+22. Find students whose marks are greater than the average marks.
+
+23. Find the student with the highest total marks.
+
+24. Given multiple lists, find the elements common to all lists.
+
+25. Create a program that removes duplicate tuples from a list of tuples.
+
+26. Find the tuple with the maximum sum from a list of tuples.
+
+27. Find all tuples where the sum of elements is greater than 50.
+
+28. Convert a nested list into a tuple of tuples.
+
+29. Create a program to transpose a matrix represented using nested lists.
+
+30. Create a program to find the row and column having the maximum sum in a matrix.
