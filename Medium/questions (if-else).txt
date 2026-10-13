@@ -1,0 +1,22 @@
+PYTHON IF-ELSE -MEDIUM
+
+1. Write a Python program to input a week number (1-7) and print the corresponding weekday.
+
+2. Write a Python program to input a month number (1-12) and print the number of days in that month.
+
+3. Write a Python program to count the minimum number of currency notes required for a given amount.
+
+4. Write a Python program to input three angles and check whether a triangle is valid or not.
+
+5. Write a Python program to input three sides and check whether a triangle is valid or not.
+
+6. Write a Python program to check whether a triangle is equilateral, isosceles, or scalene.
+
+7. Write a Python program to calculate profit or loss using cost price and selling price.
+
+8. Write a Python program to find the smallest among three numbers.
+
+9. Write a Python program to check whether a person is eligible to vote.
+
+10. Write a Python program to create a simple calculator using if-elif-else.
+

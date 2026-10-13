@@ -1,0 +1,39 @@
+PYTHON IF-ELSE - HARD
+
+1. Write a Python program to find all roots of a quadratic equation.
+
+2. Write a Python program to input marks in five subjects (Physics, Chemistry, Biology, Mathematics, and Computer), calculate the percentage, and assign a grade according to the following criteria:
+
+Percentage >= 90% : Grade A 
+Percentage >= 80% : Grade B 
+Percentage >= 70% : Grade C 
+Percentage >= 60% : Grade D 
+Percentage >= 40% : Grade E 
+Percentage < 40% : Grade F
+
+3. Write a Python program to calculate the gross salary of an employee according to the following conditions:
+
+Basic Salary <= 10000 : HRA = 20%, DA = 80% Basic Salary <= 20000 : HRA = 25%, DA = 90% Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+4. Write a Python program to calculate the electricity bill according to the following rates:
+
+First 50 units : Rs. 0.50 per unit 
+Next 100 units : Rs. 0.75 per unit 
+Next 100 units : Rs. 1.20 per unit 
+Units above 250 : Rs. 1.50 per unit 
+Additional surcharge : 20% of the bill
+
+5. Write a Python program to calculate the discount on a purchase based on the purchase amount.
+
+6. Write a Python program to calculate income tax based on given tax slabs.
+
+7. Write a Python program to check whether a number is a three-digit number.
+
+8. Write a Python program to check whether three numbers can form a valid triangle and classify the triangle.
+
+9. Write a Python program to calculate the total number of currency notes and coins for a given amount.
+
+10. Write a Python program to build a menu-driven calculator that performs addition, subtraction, multiplication, and division, and handles division by zero.
+
+11. Write a Python program to input a character and classify it as a vowel, consonant, digit, uppercase letter, lowercase letter, or special character.
+
