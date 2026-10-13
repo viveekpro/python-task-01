@@ -23,16 +23,16 @@ The questions are divided into three difficulty levels:
 ## 📂 Repository Structure
 
 ```text
-Python-List-Tuple/
+Python/
 │
 ├── Easy/
-│   └── questions.txt
+│   
 │
 ├── Medium/
-│   └── questions.txt
+│   
 │
 ├── Hard/
-│   └── questions.txt
+│   
 │
 └── README.md
 ```
