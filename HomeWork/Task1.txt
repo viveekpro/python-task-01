@@ -1,0 +1,196 @@
+PYTHON HOMEWORK: MIXED VALUES Topics: List, Tuple, Set, Dictionary Difficulty: Beginner to Intermediate
+
+================================================== PART 1: LIST QUESTIONS
+
+Q1. Filter Mixed Values
+
+data = [10, "hello", 25, "Python", 3.5, 40, "AI"]
+
+Print only the integer values.
+
+Expected output: [10, 25, 40]
+
+Q2. Separate Numbers and Strings
+
+data = [10, "apple", 20, "banana", 5.5, "mango", 30]
+
+Create two lists: one containing numbers and another containing strings.
+
+Q3. Find the Sum of Integers Only
+
+data = [10, "20", 30, "hello", 40, 2.5]
+
+Find the sum of integer values only.
+
+Expected output: 80
+
+Q4. Remove Empty Values
+
+data = [10, "", None, "Python", 0, False, 25, None, ""]
+
+Remove None, empty strings, 0, and False.
+
+Expected output: [10, "Python", 25]
+
+Q5. Reverse Only the Strings
+
+data = [10, "apple", 20, "Python", 30, "hello"]
+
+Reverse each string without changing the numbers.
+
+Expected output: [10, "elppa", 20, "nohtyP", 30, "olleh"]
+
+================================================== PART 2: TUPLE QUESTIONS
+
+Q6. Count Data Types
+
+data = (10, "hello", 2.5, True, "Python", 20, False, 5.5)
+
+Count how many integers, strings, floats, and booleans are present. Count booleans separately from integers.
+
+Q7. Extract Strings
+
+data = (100, "red", 25.5, "blue", True, "green", 50)
+
+Create a new tuple containing only strings.
+
+Expected output: ("red", "blue", "green")
+
+Q8. Find the Largest Integer
+
+data = (10, "hello", 45, 2.5, 90, "Python", 30)
+
+Find the largest integer without considering strings, floats, or booleans.
+
+Expected output: 90
+
+Q9. Swap First and Last Elements
+
+data = ("apple", 10, 5.5, True, "mango")
+
+Create a new tuple by swapping the first and last elements.
+
+Expected output: ("mango", 10, 5.5, True, "apple")
+
+Q10. Find Repeated Values
+
+data = (10, "apple", 20, "apple", 10, True, 30)
+
+Find the values that appear more than once. Consider Python's equality rules when comparing True and 1.
+
+================================================== PART 3: SET QUESTIONS
+
+Q11. Remove Duplicates
+
+data = [10, "apple", 20, "apple", 10, "banana", 30]
+
+Convert the list into a set to remove duplicates.
+
+Q12. Find Common Elements
+
+a = {10, 20, "apple", "banana", 30} b = {20, 30, "banana", "mango", 40}
+
+Find the elements common to both sets.
+
+Expected values: 20, 30, "banana"
+
+Q13. Find Unique Elements
+
+a = {1, 2, 3, "Python", "Java"} b = {2, 3, 4, "Java", "C++"}
+
+Find the elements that occur in only one of the sets.
+
+Q14. Hashable and Unhashable Values
+
+data = [10, "hello", (1, 2), [3, 4], {"a": 1}]
+
+Identify which values can be stored directly in a set. Explain why the other values cannot be stored directly.
+
+Q15. Check Subset Logic
+
+a = {10, 20, "Python"} b = {10, 20, "Python", 30, "Java"}
+
+Check whether a is a subset of b.
+
+Expected output: True
+
+================================================== PART 4: DICTIONARY QUESTIONS
+
+Q16. Separate Keys by Value Type
+
+data = { "name": "Amit", "age": 22, "marks": 85.5, "passed": True, "city": "Kanpur" }
+
+Create a list of keys whose values are strings.
+
+Expected output: ["name", "city"]
+
+Q17. Find the Student with the Highest Marks
+
+students = { "Amit": 75, "Neha": 92, "Rahul": 88, "Priya": 95 }
+
+Find the student with the highest marks.
+
+Expected output: Priya 95
+
+Q18. Count Data Types in a Dictionary
+
+data = { "a": 10, "b": "hello", "c": 20.5, "d": True, "e": "Python", "f": 30 }
+
+Count the integer, string, float, and boolean values. Handle booleans separately from integers.
+
+Q19. Reverse Keys and Values
+
+data = { "a": 10, "b": 20, "c": 30 }
+
+Create a new dictionary in which the keys become values and the values become keys.
+
+Expected output: {10: "a", 20: "b", 30: "c"}
+
+Q20. Merge Dictionaries and Add Common Values
+
+a = {"apple": 10, "banana": 20, "mango": 30} b = {"banana": 5, "mango": 10, "orange": 15}
+
+Merge the dictionaries. If a key exists in both dictionaries, add its values.
+
+Expected output: { "apple": 10, "banana": 25, "mango": 40, "orange": 15 }
+
+================================================== PART 5: MIXED LOGICAL QUESTIONS
+
+Q21. Filter Mixed List Values
+
+data = [10, "20", 30, "apple", 10.5, True, 40, False, "50"]
+
+Create a list containing only actual integers greater than 10. Do not count booleans as integers.
+
+Expected output: [30, 40]
+
+Q22. Convert a List of Tuples into a Dictionary
+
+data = [ ("apple", 10), ("banana", 20), ("mango", 30) ]
+
+Convert this into a dictionary where each fruit is a key and its number is the value.
+
+Q23. Find Common Values Across Three Data Structures
+
+a = [10, 20, "apple", 30, "mango"] b = (20, "apple", 40, "mango") c = {20, "apple", "mango", 50}
+
+Find the values present in all three data structures.
+
+Expected values: {20, "apple", "mango"}
+
+Q24. Create a Word-Frequency Dictionary
+
+words = [ "python", "java", "python", "c++", "java", "python", "c++" ]
+
+Count the occurrences of each word.
+
+Expected output: { "python": 3, "java": 2, "c++": 2 }
+
+================================================== BONUS CHALLENGE
+Do not use collections.Counter.
+Do not use external libraries.
+Use loops, conditions, and built-in methods.
+Handle booleans separately when checking integer types.
+Write and test your own solutions before checking answers.
+
+END OF HOMEWORK
