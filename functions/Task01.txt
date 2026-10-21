@@ -1,0 +1,41 @@
+Python Functions – Practice Questions
+Level 1: Basic functions
+1. Hello Function: Create a function greet() that prints "Hello, Welcome to Python!".
+
+2. Function with a parameter: Create a function greet_user(name) that accepts a name and prints a welcome message.
+
+3. Addition: Create a function add(a, b) that accepts two numbers and returns their sum.
+
+4. Square of a number: Create a function square(n) that returns the square of a number.
+
+5. Even or odd: Create a function check_even_odd(n) that checks whether a number is even or odd.
+Level 2: Parameters and return values
+6. Maximum of two numbers: Create a function that accepts two numbers and returns the greater number.
+
+7. Factorial: Create a function factorial(n) that returns the factorial of a number.
+
+8. Prime number: Create a function is_prime(n) that checks whether a number is prime.
+
+9. Count vowels: Create a function count_vowels(text) that returns the number of vowels in a string.
+
+10. Simple interest: Create a function that accepts principal, rate, and time, then returns simple interest.
+Level 3: Functions with match-case
+11. Calculator: Create separate functions for addition, subtraction, multiplication, and division. Use match-case to call the appropriate function based on the operator entered by the user.
+
+12. Day of the week: Create a function get_day(day_number) that uses match-case to return the day name for numbers 1–7.
+
+13. Area calculator: Create separate functions for the area of a circle, rectangle, and square. Use match-case to select the shape.
+
+14. Menu-driven program: Create functions for viewing a balance, depositing money, and withdrawing money. Use match-case to select an operation.
+
+15. Grade calculator: Create a function that accepts marks and returns a grade using match-case with suitable conditions or guards.
+Level 4: Intermediate challenges
+16. List statistics: Create a function that accepts a list of numbers and returns the largest number, smallest number, and average.
+
+17. Palindrome: Create a function that checks whether a given string is a palindrome.
+
+18. Remove duplicates: Create a function that accepts a list and returns a new list without duplicate values.
+
+19. Password validator: Create a function that checks whether a password meets these requirements: at least 8 characters, one uppercase letter, one lowercase letter, and one digit.
+
+20. Student result system: Create separate functions to calculate total marks, percentage, and grade. Call these functions to display a student's result.
